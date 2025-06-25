@@ -15,19 +15,23 @@ You’ll often find me exploring the intersection of performance, systems progra
         ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
           ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-- **Tools & Frameworks:**  
-  ![GCC](https://img.shields.io/badge/GCC-00599C?style=flat&logo=gnu&logoColor=white)  
-  ![NASM](https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white)  
-  ![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnubash&logoColor=white)  
-  ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### **Tools**
+&nbsp;&nbsp;![GCC](https://img.shields.io/badge/GCC-00599C?style=flat&logo=gnu&logoColor=white)
+&nbsp; ![NASM](https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white)
+&nbsp; ![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnubash&logoColor=white)
+&nbsp; ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
+&nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+&nbsp; ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+&nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+&nbsp; ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+
+
+
+### **Frameworks & Databases**
+&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+&nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+&nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
    ---
 
