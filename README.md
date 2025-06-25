@@ -52,7 +52,7 @@ You’ll often find me exploring the intersection of performance, systems progra
     ## 📫 Get In Touch
 
   - [LinkedIn](https://www.linkedin.com/in/your-linkedin)   
-  - Email: your.email@example.com
+  - Email: shaansisodia3@gmail.com
 
    ---
 
