@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaan! 
 
-<!--
-**101shaan/101shaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a passionate developer who loves building efficient, robust, and scalable solutions in low-level and high-level languages alike.  
+You’ll often find me exploring the intersection of performance, systems programming, and modern application development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:**  
+  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+    ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)  
+      ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+          ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+          - **What I Love:**  
+            - Systems programming & performance optimization  
+              - Reverse engineering and low-level hacking  
+                - Scripting and automation  
+                  - Building modern web apps
+
+                  - **Tools & Frameworks:**  
+                    - GCC, Clang, NASM, GDB  
+                      - Flask, FastAPI, Node.js  
+                        - React, Next.js, TailwindCSS
+                          - Git, Docker, Linux
+
+                          ---
+
+                          ## 🚀 About Me
+
+                          - 💡 Always tinkering with new ideas and side-projects
+                          - 🌍 Interested in OS internals, compilers, and cross-platform development
+                          - 🤝 Open to collaborating on open-source projects
+                          - 💬 Ask me about C/C++ quirks, Python hacks, or TypeScript tips
+                          - 🏆 Enjoy Competitive Programming 
+
+                          ---
+
+                          ## 📈 GitHub Stats
+
+                          <p align="center">
+                            <img src="https://github-readme-stats.vercel.app/api?username=101shaan&show_icons=true&theme=tokyonight" alt="Shaan's GitHub stats" />
+                              <br>
+                                <img src="https://github-readme-streak-stats.herokuapp.com/?user=101shaan&theme=tokyonight" alt="Shaan's GitHub streak" />
+                                </p>
+
+                                ---
+
+                                ## 📫 Get In Touch
+
+                                - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+                                - [Twitter](https://twitter.com/your-twitter)  
+                                - Email: your.email@example.com
+
+                                ---
+
+                                *Happy coding! 🚀*
