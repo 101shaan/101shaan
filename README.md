@@ -25,8 +25,7 @@ You’ll often find me exploring the intersection of performance, systems progra
 &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 &nbsp; ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
-
-
+---
 
 ### **Frameworks & Databases**
 &nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
