@@ -23,7 +23,7 @@ You’ll often find me exploring the intersection of performance, systems progra
 
 - **Tools & Frameworks:**  
    - GCC, Clang, NASM, GDB  
-   - Flask, FastAPI, Node.js  
+   - Flask, FastAPI, Node.js 
    - React, Next.js, TailwindCSS
    - Git, Docker, Linux
 
@@ -32,10 +32,11 @@ You’ll often find me exploring the intersection of performance, systems progra
   ## 🚀 About Me
 
    - 💡 Always tinkering with new ideas and side-projects
-   - 🌍 Interested in OS internals, compilers, and cross-platform development
+   - 🥇 Always striving to be the best developer possible
+   - 🌍 Interested in OS internals, compilers, and low-level development
    - 🤝 Open to collaborating on open-source projects
-   - 💬 Ask me about C/C++ quirks, Python hacks, or TypeScript tips
-   - 🏆 Enjoy Competitive Programming 
+   - 💬 Loves to learn new concepts, languages
+   - 🏆 Enjoys Competitive Programming 
 
     ---
 
