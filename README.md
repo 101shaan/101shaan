@@ -58,7 +58,6 @@ You’ll often find me exploring the intersection of performance, systems progra
    <p align="center">
                             <img src="https://github-readme-stats.vercel.app/api?username=101shaan&show_icons=true&theme=tokyonight" alt="Shaan's GitHub stats" />
                               <br>
-                                <img src="https://github-readme-streak-stats.herokuapp.com/?user=101shaan&theme=tokyonight" alt="Shaan's GitHub streak" />
                                 </p>
 
    ---
