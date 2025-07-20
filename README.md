@@ -73,7 +73,7 @@ CIVSIM takes simulation beyond the basics, modeling the evolution, interactions,
 
 ---
 
-### [DailyGlitch](https://github.com/101shaan/DailyGlitch)                     [Live Demo](https://dailyglitch.org)
+### [DailyGlitch](https://github.com/101shaan/DailyGlitch)    ||    [Live Demo](https://dailyglitch.org)
 **A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
 **Technologies used:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
