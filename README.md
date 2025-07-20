@@ -36,32 +36,52 @@
 
 ## Projects
 
-Here’s how I’ve put my skills and technologies into action, building projects that push boundaries and tackle ambitious challenges:
+Here’s how I’ve applied my skills to build projects that push boundaries and tackle ambitious challenges:
 
 ### [Bract](https://github.com/101shaan/Bract)
 **A fast, memory safe systems programming language.**  
-**Technologies used:** Rust, Git  
+**Technologies used:**  
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/> 
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+
 Bract isn’t just another language—it’s a bold experiment in systems programming, engineered from the ground up in Rust to deliver both speed and safety. Building a language from scratch means navigating complex compiler internals, memory management, and low-level abstractions. Every line is versioned with Git, reflecting a disciplined, iterative approach to solving tough technical problems.
 
 ---
 
 ### [ShaanOS](https://github.com/101shaan/ShaanOS)
 **A custom x86 operating system kernel written in C and Assembly, featuring memory management, process scheduling, interrupt handling, and basic I/O.**  
-**Technologies used:** C, x86 Assembly, NASM, GDB, GCC, Git, QEMU  
+**Technologies used:**  
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> 
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" title="x86 Assembly"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nasm/nasm-original.svg" title="NASM"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" title="GDB"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" title="GCC"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qemu/qemu-original.svg" title="QEMU"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+
 ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holding. It’s a playground for low-level systems engineering: hand-rolled memory allocators, real process scheduling, interrupt handling, and direct hardware I/O. All of it is debugged with GDB, assembled with NASM and GCC, and tested using QEMU virtualization. If you want proof of deep systems knowledge, look no further.
 
 ---
 
 ### [CIVSIM](https://github.com/101shaan/CIVSIM)
 **A Python/Pygame civilization simulation that models the growth and interaction of civilizations.**  
-**Technologies used:** Python, Git  
+**Technologies used:**  
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+
 CIVSIM takes simulation beyond the basics, modeling the evolution, interactions, and competition of entire civilizations. It leverages Python’s flexibility and the graphical power of Pygame. The result? A dynamic, emergent system where complexity arises naturally—demonstrating not just coding ability, but a passion for modeling and simulation.
 
 ---
 
 ### [DailyGlitch](https://github.com/101shaan/DailyGlitch)
 **A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
-**Technologies used:** PostgreSQL, TypeScript, React, Git, Tailwind CSS  
+**Technologies used:**  
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
+
 DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained moments in everyday life. The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration. Every feature is crafted to scale and deliver a seamless user experience.
 
 ---
