@@ -73,7 +73,7 @@ CIVSIM takes simulation beyond the basics, modeling the evolution, interactions,
 
 ---
 
-### [DailyGlitch](https://github.com/101shaan/DailyGlitch)
+### [DailyGlitch](https://github.com/101shaan/DailyGlitch)                     [Live Demo](https://dailyglitch.org)
 **A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
 **Technologies used:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -82,7 +82,7 @@ CIVSIM takes simulation beyond the basics, modeling the evolution, interactions,
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained moments in everyday life. The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration. Every feature is crafted to scale and deliver a seamless user experience.
+DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained so-called "Glitches in the Matrix". The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration. Every feature is crafted to scale and deliver a seamless user experience.
 
 ---
 
