@@ -34,6 +34,42 @@
 
    ---
 
+## Projects
+
+Below are some of my projects where I have applied the skills and technologies listed above:
+
+### [Bract](https://github.com/101shaan/Bract)
+**A fast, memory safe systems programming language.**  
+**Technologies used:** Rust, Git  
+Bract is a systems programming language focused on speed and memory safety, built primarily in Rust. All version control and collaboration is managed with Git.
+
+---
+
+### [ShaanOS](https://github.com/101shaan/ShaanOS)
+**A custom x86 operating system kernel written in C and Assembly, featuring memory management, process scheduling, interrupt handling, and basic I/O.**  
+**Technologies used:** C, x86 Assembly, NASM, GDB, GCC, Git, QEMU  
+ShaanOS demonstrates low-level systems programming and OS design from scratch, utilizing tools like NASM for assembly, GCC for C compilation, GDB for debugging, and QEMU for virtualization. All code is managed with Git.
+
+---
+
+### [CIVSIM](https://github.com/101shaan/CIVSIM)
+**A Python/Pygame civilization simulation that models the growth and interaction of civilizations.**  
+**Technologies used:** Python, Git  
+CIVSIM is a simulation written entirely in Python, using Pygame for graphics. Git was used for source control and project management.
+
+---
+
+### [DailyGlitch](https://github.com/101shaan/DailyGlitch)
+**A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
+**Technologies used:** PostgreSQL, TypeScript, React, Git, Tailwind CSS  
+DailyGlitch is a full-stack application leveraging TypeScript and React for the frontend, PostgreSQL for the backend, and Tailwind CSS for styling. Git is used throughout for version control.
+
+---
+
+Each project above directly reflects my experience and proficiency with the respective technologies. Explore the repositories for implementation details and evidence of my work!
+
+---
+
   ## 🚀 About Me
 
    - 💡 Always tinkering with new ideas and side-projects
@@ -63,7 +99,7 @@
 
     ## 📫 Get In Touch
 
-  - [LinkedIn](https://www.linkedin.com/in/your-linkedin)   
+  - [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/shaan-sisodia-2810962ab/?trk=people-guest_people_search-card&originalSubdomain=uk))   
   - Email: shaansisodia3@gmail.com
 
    ---
