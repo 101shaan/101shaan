@@ -52,8 +52,8 @@ Bract isn’t just another language—it’s a bold experiment in systems progra
 **A custom x86 operating system kernel written in C and Assembly, featuring memory management, process scheduling, interrupt handling, and basic I/O.**  
 **Technologies used:**  
 <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> 
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" title="x86 Assembly"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nasm/nasm-original.svg" title="NASM"/>
+<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assemblyscript/assemblyscript.svg" title="They didnt have x86 assembly"/>
+<img height="24" src="https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white" title="NASM"/>
 <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" title="GDB"/>
 <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" title="GCC"/>
 <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qemu/qemu-original.svg" title="QEMU"/>
@@ -87,7 +87,6 @@ DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built
 ---
 
 Each of these projects is a direct demonstration of my technical depth and creative ambition—real evidence of skill, not just claims.
-
 ---
 
   ## 🚀 About Me
