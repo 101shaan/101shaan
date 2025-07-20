@@ -36,37 +36,37 @@
 
 ## Projects
 
-Below are some of my projects where I have applied the skills and technologies listed above:
+Here’s how I’ve put my skills and technologies into action, building projects that push boundaries and tackle ambitious challenges:
 
 ### [Bract](https://github.com/101shaan/Bract)
 **A fast, memory safe systems programming language.**  
 **Technologies used:** Rust, Git  
-Bract is a systems programming language focused on speed and memory safety, built primarily in Rust. All version control and collaboration is managed with Git.
+Bract isn’t just another language—it’s a bold experiment in systems programming, engineered from the ground up in Rust to deliver both speed and safety. Building a language from scratch means navigating complex compiler internals, memory management, and low-level abstractions. Every line is versioned with Git, reflecting a disciplined, iterative approach to solving tough technical problems.
 
 ---
 
 ### [ShaanOS](https://github.com/101shaan/ShaanOS)
 **A custom x86 operating system kernel written in C and Assembly, featuring memory management, process scheduling, interrupt handling, and basic I/O.**  
 **Technologies used:** C, x86 Assembly, NASM, GDB, GCC, Git, QEMU  
-ShaanOS demonstrates low-level systems programming and OS design from scratch, utilizing tools like NASM for assembly, GCC for C compilation, GDB for debugging, and QEMU for virtualization. All code is managed with Git.
+ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holding. It’s a playground for low-level systems engineering: hand-rolled memory allocators, real process scheduling, interrupt handling, and direct hardware I/O. All of it is debugged with GDB, assembled with NASM and GCC, and tested using QEMU virtualization. If you want proof of deep systems knowledge, look no further.
 
 ---
 
 ### [CIVSIM](https://github.com/101shaan/CIVSIM)
 **A Python/Pygame civilization simulation that models the growth and interaction of civilizations.**  
 **Technologies used:** Python, Git  
-CIVSIM is a simulation written entirely in Python, using Pygame for graphics. Git was used for source control and project management.
+CIVSIM takes simulation beyond the basics, modeling the evolution, interactions, and competition of entire civilizations. It leverages Python’s flexibility and the graphical power of Pygame. The result? A dynamic, emergent system where complexity arises naturally—demonstrating not just coding ability, but a passion for modeling and simulation.
 
 ---
 
 ### [DailyGlitch](https://github.com/101shaan/DailyGlitch)
 **A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
 **Technologies used:** PostgreSQL, TypeScript, React, Git, Tailwind CSS  
-DailyGlitch is a full-stack application leveraging TypeScript and React for the frontend, PostgreSQL for the backend, and Tailwind CSS for styling. Git is used throughout for version control.
+DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained moments in everyday life. The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration. Every feature is crafted to scale and deliver a seamless user experience.
 
 ---
 
-Each project above directly reflects my experience and proficiency with the respective technologies. Explore the repositories for implementation details and evidence of my work!
+Each of these projects is a direct demonstration of my technical depth and creative ambition—real evidence of skill, not just claims.
 
 ---
 
