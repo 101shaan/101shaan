@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaan! 
 
-14 y/o developer pushing past tutorials and into real-world software. Passionate about systems programming, compilers, operating systems and high-performance code.
+14 y/o that loves building robust, low-level systems from the ground up. Passionate about systems programming, compilers, operating systems and high-performance code.
 
 ---
 
