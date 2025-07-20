@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shaan! 
 
-Welcome to my GitHub profile!  
-I'm a passionate developer who loves building efficient, robust, and scalable solutions in low-level and high-level languages alike.  
-You’ll often find me exploring the intersection of performance, systems programming, and modern application development.
+14 y/o developer pushing past tutorials and into real-world software. Passionate about systems programming, compilers, operating systems and high-performance code.
 
 ---
 
