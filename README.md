@@ -41,8 +41,8 @@ Here’s how I’ve applied my skills to build projects that push boundaries and
 ### [Bract](https://github.com/101shaan/Bract)
 **A fast, memory safe systems programming language.**  
 **Technologies used:**  
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" title="Rust"/> 
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 Bract isn’t just another language—it’s a bold experiment in systems programming, engineered from the ground up in Rust to deliver both speed and safety. Building a language from scratch means navigating complex compiler internals, memory management, and low-level abstractions. Every line is versioned with Git, reflecting a disciplined, iterative approach to solving tough technical problems.
 
@@ -51,13 +51,13 @@ Bract isn’t just another language—it’s a bold experiment in systems progra
 ### [ShaanOS](https://github.com/101shaan/ShaanOS)
 **A custom x86 operating system kernel written in C and Assembly, featuring memory management, process scheduling, interrupt handling, and basic I/O.**  
 **Technologies used:**  
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> 
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assemblyscript/assemblyscript.svg" title="They didnt have x86 assembly"/>
-<img height="24" src="https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white" title="NASM"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gdb/gdb-original.svg" title="GDB"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" title="GCC"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qemu/qemu-original.svg" title="QEMU"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnubash&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=flat&logo=gnu&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holding. It’s a playground for low-level systems engineering: hand-rolled memory allocators, real process scheduling, interrupt handling, and direct hardware I/O. All of it is debugged with GDB, assembled with NASM and GCC, and tested using QEMU virtualization. If you want proof of deep systems knowledge, look no further.
 
@@ -66,8 +66,8 @@ ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holdi
 ### [CIVSIM](https://github.com/101shaan/CIVSIM)
 **A Python/Pygame civilization simulation that models the growth and interaction of civilizations.**  
 **Technologies used:**  
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 CIVSIM takes simulation beyond the basics, modeling the evolution, interactions, and competition of entire civilizations. It leverages Python’s flexibility and the graphical power of Pygame. The result? A dynamic, emergent system where complexity arises naturally—demonstrating not just coding ability, but a passion for modeling and simulation.
 
@@ -76,11 +76,11 @@ CIVSIM takes simulation beyond the basics, modeling the evolution, interactions,
 ### [DailyGlitch](https://github.com/101shaan/DailyGlitch)
 **A Full-Stack Web App that documents strange occurrences and "glitches in the matrix".**  
 **Technologies used:**  
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-<img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained moments in everyday life. The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration. Every feature is crafted to scale and deliver a seamless user experience.
 
