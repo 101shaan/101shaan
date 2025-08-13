@@ -44,7 +44,7 @@ Here’s how I’ve applied my skills to build projects that push boundaries and
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Bract isn’t just another language—it’s a bold experiment in systems programming, engineered from the ground up in Rust to deliver both speed and safety. Building a language from scratch means navigating complex compiler internals, memory management, and low-level abstractions. Every line is versioned with Git, reflecting a disciplined, iterative approach to solving tough technical problems.
+Bract is an experimental systems programming language written in Rust. It’s built to test the idea of integrating memory management strategies and performance contracts directly into the type system. The compiler is in early development: it can lex, parse, build an AST, run basic semantic checks, and emit native code via Cranelift, but many features are incomplete or just placeholders. Right now, Bract is a correctness-first research project — performance is secondary, and production use is nowhere on the horizon.
 
 ---
 
@@ -59,7 +59,7 @@ Bract isn’t just another language—it’s a bold experiment in systems progra
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holding. It’s a playground for low-level systems engineering: hand-rolled memory allocators, real process scheduling, interrupt handling, and direct hardware I/O. All of it is debugged with GDB, assembled with NASM and GCC, and tested using QEMU virtualization. If you want proof of deep systems knowledge, look no further.
+ShaanOS is a 32-bit x86 kernel written in C and Assembly. It implements core OS building blocks — memory management, process scheduling, interrupt handling, and basic I/O — entirely from scratch. The project is still in development: it boots, sets up paging, handles interrupts, runs a basic shell, and can read from disk, but many components are incomplete or unoptimized. This is a hands-on exploration of low-level systems programming, not a production-ready OS.
 
 ---
 
@@ -69,7 +69,7 @@ ShaanOS is a complete OS kernel crafted from zero—no frameworks, no hand-holdi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-CIVSIM takes simulation beyond the basics, modeling the evolution, interactions, and competition of entire civilizations. It leverages Python’s flexibility and the graphical power of Pygame. The result? A dynamic, emergent system where complexity arises naturally—demonstrating not just coding ability, but a passion for modeling and simulation.
+CIVSIM is a Python/Pygame civilization simulator. It handles population growth, territory expansion, and interactions like war and diplomacy between civilizations. The UI is functional and detailed, letting you inspect civilizations and toggle views, and GPT integration generates optional lore. It works, it’s playable, and it’s exactly what it says on the tin — a deep simulation for experimenting with civilizations.
 
 ---
 
