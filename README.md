@@ -1,4 +1,4 @@
-# 👋 Shaan
+# Shaan
 
 15 y/o that loves building robust, low-level systems. Enjoys systems programming, compilers, operating systems and high-performance code.
 
