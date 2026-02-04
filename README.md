@@ -85,11 +85,7 @@ CIVSIM is a Python/Pygame civilization simulator. It handles population growth, 
 DailyGlitch is more than a portfolio piece—it’s an end-to-end web app, built to capture and share the weird, unexplained so-called "Glitches in the Matrix". The stack brings together PostgreSQL for robust data storage, TypeScript for safe scripting, React for responsive UI, and Tailwind CSS for rapid design iteration.
 
 ---
-    ## 📫 Get In Touch
+    ## Get In Touch
 
   - [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/shaan-sisodia-2810962ab/?trk=people-guest_people_search-card&originalSubdomain=uk))   
   - Email: shaansisodia3@gmail.com
-
-   ---
-
-  *Happy coding! 🚀*
