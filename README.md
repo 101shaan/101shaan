@@ -4,13 +4,18 @@
 
 ---
 
-## Tech Stack
+## **Tech Stack**
 
-- **Languages:**  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+### **Languages:** 
+&nbsp; ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+&nbsp; ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=gnu&logoColor=white) 
+&nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+&nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+&nbsp; ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
-### **Tools**
-&nbsp;&nbsp;![GCC](https://img.shields.io/badge/GCC-00599C?style=flat&logo=gnu&logoColor=white)
+### **Tools:**
+&nbsp; ![GCC](https://img.shields.io/badge/GCC-00599C?style=flat&logo=gnu&logoColor=white)
 &nbsp; ![NASM](https://img.shields.io/badge/NASM-4B6C4B?style=flat&logo=gnubash&logoColor=white)
 &nbsp; ![GDB](https://img.shields.io/badge/GDB-000000?style=flat&logo=gnubash&logoColor=white)
 &nbsp; ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
@@ -19,9 +24,7 @@
 &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 &nbsp; ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
----
-
-### **Frameworks & Databases**
+### **Frameworks & Databases:**
 &nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -30,8 +33,6 @@
    ---
 
 ## Projects
-
-Here’s how I’ve applied my skills to build projects that push boundaries and tackle ambitious challenges:
 
 ### [Bract](https://github.com/101shaan/Bract)
 **A fast, memory safe systems programming language.**  
@@ -54,7 +55,7 @@ Bract is an experimental systems programming language written in Rust. It’s bu
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-ShaanOS is a 32-bit x86 kernel written in C and Assembly. It implements core OS building blocks — memory management, process scheduling, interrupt handling, and basic I/O — entirely from scratch. The project is still in development: it boots, sets up paging, handles interrupts, runs a basic shell, and can read from disk, but many components are incomplete or unoptimized. This is a hands-on exploration of low-level systems programming, not a production-ready OS.
+ShaanOS is a 32-bit x86 kernel written in C and Assembly. It implements core OS building blocks — memory management, process scheduling, interrupt handling, and basic I/O — entirely from scratch. The project is still in long-term development: it boots, sets up paging, handles interrupts, runs a basic shell, can read from disk and you can play Snake but many components are unoptimized. This is a hands-on exploration of low-level systems programming, not a production-ready OS.
 
 ---
 
